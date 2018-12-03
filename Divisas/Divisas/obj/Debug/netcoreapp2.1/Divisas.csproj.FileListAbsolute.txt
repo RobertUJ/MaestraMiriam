@@ -1,0 +1,11 @@
+C:\Users\rober\source\repos\Divisas\Divisas\bin\Debug\netcoreapp2.1\Divisas.deps.json
+C:\Users\rober\source\repos\Divisas\Divisas\bin\Debug\netcoreapp2.1\Divisas.runtimeconfig.json
+C:\Users\rober\source\repos\Divisas\Divisas\bin\Debug\netcoreapp2.1\Divisas.runtimeconfig.dev.json
+C:\Users\rober\source\repos\Divisas\Divisas\bin\Debug\netcoreapp2.1\Divisas.dll
+C:\Users\rober\source\repos\Divisas\Divisas\bin\Debug\netcoreapp2.1\Divisas.pdb
+C:\Users\rober\source\repos\Divisas\Divisas\obj\Debug\netcoreapp2.1\Divisas.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\Divisas\Divisas\obj\Debug\netcoreapp2.1\Divisas.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Divisas\Divisas\obj\Debug\netcoreapp2.1\Divisas.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\Divisas\Divisas\obj\Debug\netcoreapp2.1\Divisas.AssemblyInfo.cs
+C:\Users\rober\source\repos\Divisas\Divisas\obj\Debug\netcoreapp2.1\Divisas.dll
+C:\Users\rober\source\repos\Divisas\Divisas\obj\Debug\netcoreapp2.1\Divisas.pdb

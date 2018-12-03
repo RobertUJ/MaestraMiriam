@@ -1,0 +1,11 @@
+C:\Users\rober\source\repos\Promedio5Numeros\Promedio5Numeros\bin\Debug\netcoreapp2.1\Promedio5Numeros.deps.json
+C:\Users\rober\source\repos\Promedio5Numeros\Promedio5Numeros\bin\Debug\netcoreapp2.1\Promedio5Numeros.runtimeconfig.json
+C:\Users\rober\source\repos\Promedio5Numeros\Promedio5Numeros\bin\Debug\netcoreapp2.1\Promedio5Numeros.runtimeconfig.dev.json
+C:\Users\rober\source\repos\Promedio5Numeros\Promedio5Numeros\bin\Debug\netcoreapp2.1\Promedio5Numeros.dll
+C:\Users\rober\source\repos\Promedio5Numeros\Promedio5Numeros\bin\Debug\netcoreapp2.1\Promedio5Numeros.pdb
+C:\Users\rober\source\repos\Promedio5Numeros\Promedio5Numeros\obj\Debug\netcoreapp2.1\Promedio5Numeros.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\Promedio5Numeros\Promedio5Numeros\obj\Debug\netcoreapp2.1\Promedio5Numeros.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Promedio5Numeros\Promedio5Numeros\obj\Debug\netcoreapp2.1\Promedio5Numeros.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\Promedio5Numeros\Promedio5Numeros\obj\Debug\netcoreapp2.1\Promedio5Numeros.AssemblyInfo.cs
+C:\Users\rober\source\repos\Promedio5Numeros\Promedio5Numeros\obj\Debug\netcoreapp2.1\Promedio5Numeros.dll
+C:\Users\rober\source\repos\Promedio5Numeros\Promedio5Numeros\obj\Debug\netcoreapp2.1\Promedio5Numeros.pdb

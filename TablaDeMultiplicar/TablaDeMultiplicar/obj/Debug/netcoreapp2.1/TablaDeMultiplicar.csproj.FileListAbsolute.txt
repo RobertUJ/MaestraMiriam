@@ -1,0 +1,10 @@
+C:\Users\rober\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\netcoreapp2.1\TablaDeMultiplicar.deps.json
+C:\Users\rober\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\netcoreapp2.1\TablaDeMultiplicar.runtimeconfig.json
+C:\Users\rober\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\netcoreapp2.1\TablaDeMultiplicar.runtimeconfig.dev.json
+C:\Users\rober\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\netcoreapp2.1\TablaDeMultiplicar.dll
+C:\Users\rober\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\netcoreapp2.1\TablaDeMultiplicar.pdb
+C:\Users\rober\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\netcoreapp2.1\TablaDeMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\netcoreapp2.1\TablaDeMultiplicar.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\netcoreapp2.1\TablaDeMultiplicar.AssemblyInfo.cs
+C:\Users\rober\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\netcoreapp2.1\TablaDeMultiplicar.dll
+C:\Users\rober\source\repos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\netcoreapp2.1\TablaDeMultiplicar.pdb
